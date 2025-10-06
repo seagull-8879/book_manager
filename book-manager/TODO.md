@@ -1,0 +1,4 @@
+- [x] Fix namespace in BookResource.php to App\Filament\Resources\Books;
+- [x] Fix use statement in BookResource.php to use App\Filament\Resources\Books\Pages;
+- [x] Add $timestamps = false to Book model
+- [x] Add $timestamps = false to Category model
